@@ -15,3 +15,11 @@ hours_spent_reading = 47.5
 alive = true
 travled_to_outerspace = false
 have_pets = true 
+
+my_name = "Alec Kapicak"
+wifes_name = "Halie Skara"
+state = "Minnesota"
+
+puts my_name
+puts have_pets
+puts state
