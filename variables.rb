@@ -10,3 +10,8 @@ number_of_cats = 2
 
 books_read = 17.5
 hours_spent_reading = 47.5
+
+
+alive = true
+travled_to_outerspace = false
+have_pets = true 
